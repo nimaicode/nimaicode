@@ -12,6 +12,3 @@ I’m currently working on Flood prediction and smart infrastructure projects us
 ![](https://streak-stats.demolab.com/?user=nimaicode&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nimaicode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=nimaicode&icon=0&color=0)](https://visitcount.itsvg.in)
-
